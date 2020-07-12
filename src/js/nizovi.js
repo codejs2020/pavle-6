@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 // 1
 const niz1 = ['a', 'b', 'c']
 // 2
